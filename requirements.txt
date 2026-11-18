@@ -1,0 +1,2 @@
+tkinter  # Usually comes with Python
+psutil>=5.9.0
